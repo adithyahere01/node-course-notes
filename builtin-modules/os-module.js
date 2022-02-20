@@ -1,3 +1,5 @@
+//***OS Module - Provides many usefull properties for interacting with the Operating System as well as Server.
+
 const os = require('os')
 
 //info about current user
