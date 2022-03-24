@@ -5,3 +5,5 @@ console.log(require);
 // setInterval(()=>{
 //     console.log(__filename);
 // },1000);
+
+console.log("adithya is a good");

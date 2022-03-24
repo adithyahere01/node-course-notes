@@ -3,7 +3,7 @@
                   =synchronous methods(blocking)
 */
 
-const { readFileSync, writeFileSync } = require('fs')
+const { readFileSync, writeFileSync } = require('fs') 
 
 const first = readFileSync('./testtext.txt','utf8')
 
